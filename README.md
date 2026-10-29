@@ -1,0 +1,3 @@
+estou fazendo o codigo seguindo os requisitos do pdf: "C:\Users\anaso\Downloads\AC02-3TRI - FutureFest - Flutter.pdf"
+
+quero que refaça esse app (seguindo os requisitos) mas use de base os seguintes codigos: "C:\Users\anaso\Downloads\flutter_api_viacep-main" e "C:\Users\anaso\Downloads\dmm-ac1-tri3" quero que o codigo do app tenha o mesmo estilo dos codigos (tudo que vc usar no codigo do app tem que estar nesses outros codigos! use eles como guia! e ainda cumpra os requistos.)pode usar de base também: "C:\Users\anaso\Downloads\flutter_criando_componentes-main" e "C:\Users\anaso\Downloads\flutter_mudanca_tela_exercicio-main" e "C:\Users\anaso\Downloads\flutter_listas-main"
